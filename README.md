@@ -31,4 +31,4 @@ The app is built using **Streamlit** and provides two main functionalities:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/trouble-sleeping-prediction-app.git
+   git clone https://github.com/antoyoussef/trouble-sleeping-prediction-app.git
