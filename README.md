@@ -26,9 +26,3 @@ The app is built using **Streamlit** and provides two main functionalities:
 - **Pandas** for data manipulation.
 - **Scikit-learn** for building and deploying the machine learning model.
 - **Matplotlib** and **Seaborn** for data visualization.
-
-## How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/antoyoussef/trouble-sleeping-prediction-app.git
